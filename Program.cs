@@ -11,8 +11,13 @@ namespace ChallengeLabs1
     internal class Program : Student
     {
         
+        
+        
         static void Main(string[] args)
         {
+            //Github edit sync tutorial
+            Console.WriteLine("Testing Github");
+
             char char_choice_yn = 'y';
             int num_choice = 0;
             string active = "active";
